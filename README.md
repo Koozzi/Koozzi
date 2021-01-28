@@ -1,4 +1,4 @@
-# Hi! I'm Chihun Koo
+# Chihun Koo
 
 I am interested in Cloud, DevOps. And currently studying AWS with Terraform and Docker/Kubernetes.
 
